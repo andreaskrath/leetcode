@@ -16,5 +16,6 @@
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Rust](solutions/reverse_bits/src/main.rs)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Rust](solutions/number_of_1_bits/src/main.rs)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Rust](solutions/fibonacci_number/src/main.rs)|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Rust](solutions/n-th_tribonacci_number/src/main.rs)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Rust](solutions/kids_with_the_greatest_number_of_candies/src/main.rs)|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Rust](solutions/merge_strings_alternately/src/main.rs)|
