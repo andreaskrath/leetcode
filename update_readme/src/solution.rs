@@ -73,8 +73,8 @@ pub fn update_readme(solutions: Vec<Solution>) -> usize {
         .open("../README.md")
         .expect("failed to edit README.md");
 
-    let table_header = "|Nr.|Name|Solution|";
-    let table_orientation = "|:-:|:-:|:-:|";
+    let table_header = "|Nr.|Name|Solution|\n";
+    let table_orientation = "|:-:|:-:|:-:|\n";
     _ = file
         .write(table_header.as_bytes())
         .expect("failed to write table header");

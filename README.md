@@ -1,4 +1,6 @@
-|Nr.|Name|Solution||:-:|:-:|:-:||1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Rust](solutions/two_sum/src/main.rs)|
+|Nr.|Name|Solution|
+|:-:|:-:|:-:|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Rust](solutions/two_sum/src/main.rs)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Rust](solutions/palindrome_number/src/main.rs)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Rust](solutions/valid_parentheses/src/main.rs)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Rust](solutions/remove_duplicates_from_sorted_array/src/main.rs)|
